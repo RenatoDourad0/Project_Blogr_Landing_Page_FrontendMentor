@@ -36,6 +36,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
+- [Live site](https://renatodourad0.github.io/Project_Blogr_Landing_Page_FrontendMentor/)
 
 ## My process
 
